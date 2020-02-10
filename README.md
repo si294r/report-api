@@ -23,3 +23,35 @@ A. User
    - created_by
    - updated_by
    
+B. Jabatan
+   - jabatan_id
+   - jabatan_name
+   - created_date
+   - updated_date
+   - created_by
+   - updated_by
+   
+C. Project
+   - project_id
+   - project_name
+   - created_date
+   - updated_date
+   - created_by
+   - updated_by
+   
+D. Report
+   - report_id
+   - berita_acara
+   - tipe
+   - amount
+   - project_id
+   - user_id
+   - created_date
+   - updated_date
+   - created_by
+   - updated_by
+   - approved_by
+   - approval_status
+   - report_date
+   - approved_date
+   
