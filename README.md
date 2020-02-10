@@ -10,3 +10,14 @@ Create an API Based on requirement:
    5. include class diagram
    6. Include a Readme
    7. Tested with Swagger UI
+
+Have 4 Tables :
+
+- User
+   user_id
+   user_name
+   name
+   jabatan_id
+   created_date
+   updated_date
+   created_by
