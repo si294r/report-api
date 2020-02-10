@@ -13,11 +13,13 @@ Create an API Based on requirement:
 
 Have 4 Tables :
 
-- User
-   user_id
-   user_name
-   name
-   jabatan_id
-   created_date
-   updated_date
-   created_by
+A. User
+   - user_id
+   - user_name
+   - name
+   - jabatan_id
+   - created_date
+   - updated_date
+   - created_by
+   - updated_by
+   
