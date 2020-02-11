@@ -2,16 +2,16 @@ spring:
   application:
     name: Demo
   datasource:
-    url: jdbc:mysql://localhost:3306/alami?zeroDateTimeBehavior=convertToNull&autoReconnect=true&characterEncoding=UTF-8&characterSetResults=UTF-8
+    url: jdbc:mysql://localhost:3306/report_api?zeroDateTimeBehavior=convertToNull&autoReconnect=true&characterEncoding=UTF-8&characterSetResults=UTF-8
     username: root
-    password: "Mas%83rra"
+    password: ""
   data:
     rest:
       base-path: /rest/api
   jpa:
     show-sql: true
     hibernate:
-      ddl-auto: none
+      ddl-auto: create
   profiles:
     active: production
   servlet:
